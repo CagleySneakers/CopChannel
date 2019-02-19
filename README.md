@@ -1,0 +1,2 @@
+# CopChannel
+DiscordWebhook
